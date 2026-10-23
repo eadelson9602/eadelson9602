@@ -10,6 +10,8 @@ I design and build software products across **web, backend, and mobile**. My exp
 
 ## Professional Case Studies
 
+Read the detailed [QInspecting and Ruedaz case studies](./CASE_STUDIES.md), including high-level diagrams and guidance for adding approved visuals without exposing confidential information.
+
 > These are professional projects. Their source code and internal implementation details are not published here because of confidentiality obligations.
 
 ### QInspecting — Inspection Management SaaS
