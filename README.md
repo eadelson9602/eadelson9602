@@ -22,6 +22,7 @@ A SaaS product for inspection workflows, with web, backend, and mobile component
 - **Backend:** Node.js and NestJS
 - **Mobile:** Flutter
 - **Focus:** Full Stack feature development, API integrations, product improvements, and technical support.
+- Public references: [website](https://www.qinspecting.com/) · [Android app](https://play.google.com/store/apps/details?id=com.qinspecting.mobile)
 
 Portfolio materials can use approved interface screenshots with mock or anonymized data. No confidential source code, customer information, or production secrets are included here.
 
@@ -30,6 +31,7 @@ Portfolio materials can use approved interface screenshots with mock or anonymiz
 A professional case study for a parking subscription platform.
 
 - Public website: [ruedaz.com](https://ruedaz.com/)
+- Android app: [Ruedaz on Google Play](https://play.google.com/store/apps/details?id=org.ruedaz.com)
 - **Focus:** product development, application architecture, infrastructure, integrations, and ongoing improvements.
 
 The proprietary source code and internal technical details are not shared in this portfolio.
