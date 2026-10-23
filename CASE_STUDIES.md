@@ -34,7 +34,17 @@ flowchart TB
     API --> EXT[Integrations and product services]
 ```
 
-### Portfolio evidence to add
+### Public product references
+
+The official Google Play listing provides public screenshots of the mobile app. These are linked directly from the listing and are shown here as product references, not as evidence that a particular screen was implemented by me.
+
+| App screenshot | Source |
+|---|---|
+| ![QInspecting app screenshot 1](https://play-lh.googleusercontent.com/pM48462lwdXabmPGujGGHkk48hOFAGumu71wCSWQhehwkuvBcx6vsZMpMe1PbgQ3hB_QZGrNIJShvTvsOb9o=w526-h296) | [Google Play listing](https://play.google.com/store/apps/details?id=com.qinspecting.mobile) |
+| ![QInspecting app screenshot 2](https://play-lh.googleusercontent.com/7Qr0ZtgtOc09ZA6AVZ2H_asQZSOIFoOYmcMFWeEdc2xmPf8IoL3J2ohrnpj5aLQHMytxn_3ABxaUtPpJj4QzPok=w526-h296) | [Google Play listing](https://play.google.com/store/apps/details?id=com.qinspecting.mobile) |
+| ![QInspecting app screenshot 3](https://play-lh.googleusercontent.com/fLNymUA81C58W_WNG_2dKc05qor82CjpzyEgyeDMaB1Jl2YMUQtTCN-8IA2vvjQWWg8_CvsoT10XqgOnVkVx6g=w526-h296) | [Google Play listing](https://play.google.com/store/apps/details?id=com.qinspecting.mobile) |
+
+### Additional portfolio evidence
 
 Use only screenshots that are approved for external sharing. Before adding them, replace or obscure names, emails, inspection details, addresses, company logos where restricted, and any production identifiers. If real screenshots cannot be shared, create a clearly labeled demo using mock data rather than presenting a mockup as a production screenshot.
 
@@ -65,7 +75,19 @@ flowchart LR
     FLOW --> OPS[Operational processes]
 ```
 
-### Portfolio evidence to add
+### Public product references
+
+The following images are sourced from the public Google Play listing for Ruedaz. They illustrate the published app, and are not presented as proof of my individual contribution to each screen.
+
+| App screenshot | Source |
+|---|---|
+| ![Ruedaz app screenshot 1](https://play-lh.googleusercontent.com/bd6YZJ1YiaWJ7wqnTXwjPptQDxR2_nu-P9ERB38BD9FiZdrlooXjRvFdutnUMSWW6Bt51QhRKbFGbQPKI7FemA=w526-h296) | [Google Play listing](https://play.google.com/store/apps/details?id=org.ruedaz.com) |
+| ![Ruedaz app screenshot 2](https://play-lh.googleusercontent.com/baHbg17k7Fuh0RInHcZ6deq9mS4A_0fXeKpi6fru8u118b1zbfvUCGjtZgrJk8ltEBfNFTJi4UO5KzPSvVgsSWw=w526-h296) | [Google Play listing](https://play.google.com/store/apps/details?id=org.ruedaz.com) |
+| ![Ruedaz app screenshot 3](https://play-lh.googleusercontent.com/fTdBSBLEMIisbGIgIei48Ei0RI2zlSTMyl9PIWfMlpvevZIAJqnpZ3rDGDtNQXx_cHtTswjVJyecXg-iPunTdww=w526-h296) | [Google Play listing](https://play.google.com/store/apps/details?id=org.ruedaz.com) |
+
+The [public Ruedaz website](https://www.ruedaz.com/) can also be used as a live product reference. A browser screenshot of the website itself has not been captured or committed in this update; the images above are from Google Play.
+
+### Additional portfolio evidence
 
 The public website can be linked directly. For additional visuals, use approved screenshots of public-facing pages and annotate them with your contribution. If a screenshot shows a user or operational workflow, use a separate demo environment and mock data. Do not include source code, infrastructure diagrams with sensitive details, credentials, customer information, or internal admin screens without authorization.
 
